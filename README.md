@@ -1,4 +1,4 @@
-## Hi there 👋
+## Apoio ao ensino de Engenharia de Software 👋
 
 <!--
 **ProfGercino/ProfGercino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
